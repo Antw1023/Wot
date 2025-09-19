@@ -1,12 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
+    height: 100dvh;
     font-family:Arial, sans-serif;
     line-height: 1.6;
     background-color: #ffffff;
     color: #160d3f;
-    padding: 20px;
+    padding: 10%;
 }
 h1 {
     color: #000000;
+    
+}
+h2 {
+    position:relative;
+    left: -1em
 }
 a {
     color: #3896f5;
