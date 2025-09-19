@@ -1,15 +1,15 @@
 body {
     font-family:Arial, sans-serif;
     line-height: 1.6;
-    background-color: f4f4f4;
-    color: #5c41e4;
+    background-color: #ffffff;
+    color: #160d3f;
     padding: 20px;
 }
 h1 {
-    color: #555;
+    color: #000000;
 }
 a {
-    color: #0066cc;
+    color: #3896f5;
     text-decoration: none;
 }
 a:hover {
